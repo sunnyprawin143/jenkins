@@ -39,5 +39,28 @@ example:0477d288f21848a8b5842a769f5a106d
 after login click on suggested install
 then it will all required packages
 
+after that enter your details and mail id then save and continue to get jenkins url
+click ok to continue
+
+now you are inside jenkins signin page
+
+
+
+**IN JENKINS WILL CREATE JOBS NOW**
+
+STEP TO CREATE BUILD AND DEPLOYMENT
+
+FREESTYLE PROJECT:
+click on new item and select free style project click ok to continue
+
+add description any and go t buils steps
+
+select execute shell
+echo "hlo jenkins"
+touch jenkins.txt
+echo "my first try on jenkins">>jenkins.txt
+echo "successfully executed"
+
+
 
 
