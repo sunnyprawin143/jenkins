@@ -41,6 +41,8 @@ then it will all required packages
 
 after that enter your details and mail id then save and continue to get jenkins url
 click ok to continue
+username/password
+yadhav/143143
 
 now you are inside jenkins signin page
 
@@ -61,6 +63,15 @@ touch jenkins.txt
 echo "my first try on jenkins">>jenkins.txt
 echo "successfully executed"
 
+/var/lib/jenkins/workspace
 
 
+click on build now and execute
+under buils you can see 1 build click and verify output console
+
+go to cd /var/lib/jenkins/workspace
+
+verify you task is generated
+
+cat jenkins.txt you can see out as many times you give build.
 
