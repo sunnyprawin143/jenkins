@@ -1,0 +1,17 @@
+variables: place holders to hold values
+a=10
+b="praveen"
+c="0.5"
+
+Types of variables:
+1. local variables
+variable can access inside particular block
+course = python
+
+ 2. Global variables
+ global variables are nothing but variables are able to access outside the block as well and through out the jenkins
+
+3. jenkins pre defined variables
+
+variables which are defined already and use
+
